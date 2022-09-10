@@ -3,3 +3,25 @@ body
     background-image: linear-gradient(rgb(65, 167, 185), rgb(13, 84, 97));
 }
 
+.col
+{
+    background-color: #28d2ec;
+}
+
+button
+{
+    display: flex;
+    text-align: center 
+}
+
+#audio
+{
+    display: none;
+}
+
+#dot
+{
+    font-size: 40px;
+    color: white;
+}
+
